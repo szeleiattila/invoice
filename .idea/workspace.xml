@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e384c1a-8e08-4d1c-8071-ee16d222256a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lTrEy1yefGscCADx3vW2r9Q8nZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/__tests__" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Nodeunit.test">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="NodeunitConfigurationType" factoryName="Nodeunit">
+      <setting name="nodePath" value="project" />
+      <envs />
+      <setting name="nodeunitModuleDir" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="testType" value="DIRECTORY" />
+      <setting name="directory" value="src" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Nodeunit.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e384c1a-8e08-4d1c-8071-ee16d222256a" name="Default Changelist" comment="" />
+      <created>1607631814619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607631814619</updated>
+      <workItem from="1607631815762" duration="3674000" />
+      <workItem from="1607699962736" duration="7938000" />
+      <workItem from="1607795732343" duration="656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1386" y="159" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607726411519">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-1386" y="159" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1607726411519" />
+    <state x="-1060" y="259" key="FileChooserDialogImpl" timestamp="1607726408646">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-1060" y="259" key="FileChooserDialogImpl/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1607726408646" />
+    <state width="1659" height="336" key="GridCell.Tab.0.bottom" timestamp="1607632221738">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.0.bottom/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1607632221738" />
+    <state width="1659" height="336" key="GridCell.Tab.0.center" timestamp="1607632221738">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.0.center/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1607632221738" />
+    <state width="1659" height="336" key="GridCell.Tab.0.left" timestamp="1607632221737">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.0.left/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1607632221737" />
+    <state width="1659" height="336" key="GridCell.Tab.0.right" timestamp="1607632221738">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.0.right/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1607632221738" />
+    <state x="-1339" y="149" key="SettingsEditor" timestamp="1607726002618">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-1339" y="149" key="SettingsEditor/0.0.1366.728/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1607726002618" />
+  </component>
+</project>

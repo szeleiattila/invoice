@@ -1,0 +1,7 @@
+[ {"product": "öv","qty": 1, "unit_price": 19000, "VAT_rate": 25},
+  {"product": "zokni","qty": 5, "unit_price": 2000, "VAT_rate": 25},
+  {"product": "kabát","qty": 3, "unit_price": 5000, "VAT_rate": 25},
+  {"product": "cipő","qty": 2, "unit_price": 3000, "VAT_rate": 25},
+  {"product": "sapka","qty": 1, "unit_price": 7000, "VAT_rate": 25},
+  {"product": "pénztárca","qty": 1, "unit_price": 10000, "VAT_rate": 25},
+  {"product": "ing","qty": 2, "unit_price": 1900, "VAT_rate": 25}]
