@@ -6,9 +6,8 @@ console.log(customerDetails(customer))
 readDataJson("../data/order.json", result=>{
 products(result).forEach((items)=>{
     console.log(items)
-
 })
-    console.log(`Összesen: ${totalPrice(result)}ft`)
+    console.log(`Fizetés Összesen: ${totalPrice(result)}ft`)
     const shippingCost=new Promise((resolve, reject)=>{
         if(isFreeshipping(totalPrice(result))){
             resolve('Ingyenes szállítás!')
