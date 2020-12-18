@@ -1,6 +1,4 @@
 const fs = require('fs');
-const customer = require('../data/customer.json');
-const order = require('../data/order.json');
 const freeShippingOver=50000;
 const VAT=1.25;
 const shippingPrice=1000;
